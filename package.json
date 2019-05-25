@@ -1,0 +1,22 @@
+{
+  "name": "fwdc",
+  "version": "1.0.0",
+  "description": "getting started with git",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bankole2000/FWDC.git"
+  },
+  "author": "John Doe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bankole2000/FWDC/issues"
+  },
+  "homepage": "https://github.com/Bankole2000/FWDC#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
